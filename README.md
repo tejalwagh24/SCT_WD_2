@@ -1,3 +1,7 @@
+## Live Demo
+
+https://time-never-dies.netlify.app/
+
 # SCT_WD_2 — TIME IS DYING
 
 ## Overview
@@ -41,4 +45,4 @@ This project explores the idea that time constantly disappears, turning a basic 
 
 ## Author
 
-Developed for SkillCraft Technology Internship.
+Developed by Tejal Wagh
