@@ -46,3 +46,8 @@ This project explores the idea that time constantly disappears, turning a basic 
 ## Author
 
 Developed by Tejal Wagh
+
+## 📸 Preview
+
+![Project Preview](assets/preview.png)
+
